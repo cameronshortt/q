@@ -3,5 +3,5 @@
 I was really bored, so I built a few quines in C.
 Eventually this will expand to include more languages.
 
-`qm.c` is the only original quine, but I don't remember
-where the others came from.
+`qp.c` isn't original, but I don't know where it
+came from.  The rest are all variations on `qp.c`.
