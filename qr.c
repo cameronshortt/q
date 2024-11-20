@@ -1,0 +1,1 @@
+main(){char*s="main(){char*s=%c%s%c,*t=%c%s%c,*y;y=strlen(s)>strlen(t)?s:t;printf(y,34,y,34,34,y,34);}",*t="main(){char*s=%c%s%c,*t=%c%s%c,*y;y=strlen(s)>strlen(t)?s:t;printf(y,34,y,34,34,y,34);}",*y;y=strlen(s)>strlen(t)?s:t;printf(y,34,y,34,34,y,34);}
